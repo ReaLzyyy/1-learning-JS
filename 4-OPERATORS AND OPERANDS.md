@@ -1,5 +1,14 @@
 ## Operators meaning 
-    ** exponentiation 
+    2 types of data number and string(text)
+    boolean - true/false
+    NaN - Not a Number
+    + addition
+    - subtraction
+    * multiply
+    / division
+    % modulus (remainder)
+    ** exponentiation
+    = equals 
     == if equal
     === if equal (types)
     != if not equal
