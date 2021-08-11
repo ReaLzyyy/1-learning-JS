@@ -1,11 +1,3 @@
-var tekstas = "labas";
-var text =  "\'grazusis\"\npasauli"
-var arTiesa= "false";
-
-
-tekstas += text
-
-/* 
 number
 string - tekstas
 boolean - true/false
@@ -28,6 +20,3 @@ operator precedence
 >= if greater or equal
 < if less
 <= if less or equal
-*/
-
-console.log(tekstas);
