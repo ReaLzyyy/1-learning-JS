@@ -1,0 +1,2 @@
+# 1-learning-JS
+⚠WARNING⚠This repository is my dump for everything I learn/stuff that I try out regarding JavaScript.
