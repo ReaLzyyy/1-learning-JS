@@ -1,4 +1,4 @@
-var sk1 = 15;
+var sk1 = 25;
 var sk2 = 20;
 
 if (sk1 >= sk2) {
