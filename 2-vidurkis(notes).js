@@ -1,9 +1,10 @@
 // this is a comment
-var a; //var yra stalcius aka kintamasis
+var a; //var yra stalcius aka kintamasis (variable)
 var b;
 var c;
+var _4fkhj$gfkfk;
 /* 
-var can be any letter
+var can be any letter - capital or lowercase
 number
 _ $
 
