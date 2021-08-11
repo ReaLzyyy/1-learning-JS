@@ -1,22 +1,15 @@
-number
-string - tekstas
-boolean - true/false
+    2 types of data number and string(text)
 
-NaN - Not a Number
+    boolean - true/false
 
-+ addition
-- subtraction
-* multiply
-/  division
-% modulus (remainer)
-operator precedence
-** exponentiation
+    NaN - Not a Number
 
-== if equal
-=== if equal
-!= if not equal
-!== if not equal
-> if greater 
->= if greater or equal
-< if less
-<= if less or equal
+    + addition
+
+    - subtraction
+
+    * multiply
+
+    /  division
+
+    % modulus (remainer)
