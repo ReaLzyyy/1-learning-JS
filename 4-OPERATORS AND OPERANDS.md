@@ -17,6 +17,7 @@
     >= if greater or equal
     < if less
     <= if less or equal
+    break stops cycle
 ## HOW OPERATORS WORK
     && & - operator AND (&:true/true= + ); (&:true/false= - ); (&:false/false= - ); requires 2 operands
     || | - opearot OR (|:true/true= + ); (|:true/false= + ); (&:false/false= - ); requires 2 operands
