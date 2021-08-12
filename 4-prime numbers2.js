@@ -22,7 +22,7 @@ while (n <= 100) {
         console.log(n);
     }
     n += 1;
-}
+} 
 /* 
 n: 2
 divider: 2
