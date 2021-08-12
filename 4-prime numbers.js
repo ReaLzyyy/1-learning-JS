@@ -1,4 +1,4 @@
-var prime = 4
+var prime = 8
 if (prime % 2 == 0) {
     console.log(`${prime} is not a prime number`);
 }
