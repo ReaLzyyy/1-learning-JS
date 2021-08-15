@@ -1,19 +1,11 @@
-// Setup
-var sum = 0;
+function trueOrFalse(wasThatTrue) {
+    // Only change code below this line
+    if (wasThatTrue == true) {
+        return "Yes, that was true";
+    }
+    return "No, that was false";
 
-function addThree() {
-    sum = sum + 3;
-    return sum;
+    // Only change code above this line
 }
-
-function addFive() {
-    var sum = 5;
-    sum = sum + 5;
-    return sum
-}
-// Only change code below this line
-
-// Only change code above this line
-
-console.log(addThree());
-console.log(addFive());
+console.log(trueOrFalse(false));
+console.log(typeof("6 is a six"));
