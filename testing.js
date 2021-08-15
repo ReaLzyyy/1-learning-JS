@@ -21,7 +21,7 @@ function cc(card) {
     var holdbet = "Hold";
     if (count > 0) {
         holdbet = "Bet"
-    }
+    } return count + " " + holdbet
     // Only change code above this line
 }
 
@@ -30,3 +30,4 @@ cc(3);
 cc(7);
 cc("K");
 cc("A");
+console.log(cc());
