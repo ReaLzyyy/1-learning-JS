@@ -17,6 +17,8 @@
     var.pop() removes last item
     var.push() push to the end
     
+    switch(num){case value1: statment1; break;} statment tests which values and sets answer the condition written 
+
     a += 1 shortcut for addition
     a -= 1 shortcut for subtraction
     a /= 1 shortcut for division
